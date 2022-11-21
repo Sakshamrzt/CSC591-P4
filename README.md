@@ -21,7 +21,7 @@ postprocess.py | Interprets the prediction output
 3. Run the preprocess file
 4. Run the model to get the output. tvmc run --inputs imagenet_num1.npz --output predictions.npz mnist.tar
 5. Run the preprocess file to get the output
-
+The optimization details can be found here : https://pastebin.com/GudcN7F2
 ## Team
 Name  | Unity id
 ------------- | -------------
